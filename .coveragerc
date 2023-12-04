@@ -1,0 +1,7 @@
+[run]
+source= scanhist/
+
+omit =
+    scanhist/__init__.py
+    scanhist/_version.py
+    scanhist/tests/*.py
